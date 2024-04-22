@@ -4,6 +4,7 @@ programa = 1
 1: fazer espada, armadura
 2: descobrir mouse
 3: fazer barra
+
 """
 contador = 0
 
@@ -69,3 +70,5 @@ elif programa == 3:
         bot.sleep(1)
 
         bot.sleep(48)
+
+#fim
