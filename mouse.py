@@ -13,19 +13,19 @@ if programa == 1:
 
         try:
             #clicar runescape
-            bot.click(x=344, y=742)
+            bot.click(x=163, y=744)
             bot.sleep(1)
 
             #clicar forja
-            bot.click(x=1228, y=434)
+            bot.click(x=1244, y=546)
             bot.sleep(1)
 
             #clicar iniciar projeto
-            bot.click(x=1271, y=528)
+            bot.click(x=1291, y=625)
             bot.sleep(1)
 
             #clicar minimizar
-            bot.click(x=1253, y=192)
+            bot.click(x=1244, y=355)
             bot.sleep(1)
 
         except:
@@ -46,27 +46,27 @@ elif programa == 2:
 elif programa == 3:
     while True:
         #clicar runescape
-        bot.click(x=347, y=745)
+        bot.click(x=168, y=756)
         bot.sleep(1)
 
         #clicar forja
-        bot.click(x=1173, y=385)
+        bot.click(x=1197, y=504)
         bot.sleep(1)
 
         #clicar esvaziar
-        bot.click(x=1016, y=535)
+        bot.click(x=1051, y=628)
         bot.sleep(1)
 
         #clicar runebar
-        bot.click(x=1138, y=379)
+        bot.click(x=1168, y=494)
         bot.sleep(1)
 
         #clicar iniciar projeto
-        bot.click(x=1294, y=531)
+        bot.click(x=1281, y=621)
         bot.sleep(1)
 
         #clicar minimizar
-        bot.click(x=1260, y=182)
+        bot.click(x=1237, y=354)
         bot.sleep(1)
 
         bot.sleep(48)
